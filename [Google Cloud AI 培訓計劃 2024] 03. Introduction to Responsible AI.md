@@ -143,66 +143,102 @@ Google 也秉持著同樣的理念 如同許多企業 我們以自家的 AI 開�
 ### 「負責任的 AI 技術」簡介：測驗
 
 
-check
+
+1.
+為什麼負責任的 AI 技術做法對機構來說很重要？  
+1. 負責任的 AI 技術做法有助於提高作業效率。  
+2. 負責任的 AI 技術做法可讓客戶和利害關係人信任機構。 check  
+3. 負責任的 AI 技術做法可以提高溝通效率。  
+4. 負責任的 AI 技術做法有助於增加收益。    
+
+2.
+Google 有 7 項 AI 開發原則，下列何者為其中之一？
+
+AI 應堅持以高標準追求營運成效。  
+AI 應堅持以高標準追求科學卓越。 check  
+AI 應塑造不公平的偏誤。  
+AI 應基於監控目的而收集或使用資訊。  
+答對了！  
+
+
+3.
+關於實踐負責任的 AI 技術做法，下列何者正確？
+
+專案後期的決策不會影響負責任的 AI 技術。
+無論在專案的哪個階段，只有專案擁有者的決策才會影響負責任的 AI 技術。
+專案初期的決策不會影響負責任的 AI 技術。 
+專案每個階段的決策都會影響負責任的 AI 技術。 check
+答對了！
+
+
+4.
+機構紛紛擬定 AI 開發原則，體現自己的使命與價值。這些原則有哪些共通點？
+
+均以公平、可靠和多元包容為理念。 X 答錯了。多元包容並非其中一項共通理念。  
+均以資訊公開、公平和公正為理念。  
+均以資訊公開、公平、可靠和隱私權為理念。  
+均以資訊公開、公平和多樣性為理念。  
+
+
+
+
+
+lose
 1.
 
-為什麼負責任的 AI 技術做法對機構來說很重要？
+Which of the below is one of Google’s 7 AI principles?
 
-負責任的 AI 技術做法有助於提高作業效率。
-check
-負責任的 AI 技術做法可讓客戶和利害關係人信任機構。
+AI should uphold high standards of scientific excellence. 
+=> x Incorrect. Upholding high standards of operational excellence is not one of Google’s 7 AI principles.
 
-負責任的 AI 技術做法可以提高溝通效率。
+AI should uphold high standards of operational excellence.
 
-負責任的 AI 技術做法有助於增加收益。
-答對了！
+AI should gather or use information for surveillance.
+
+AI should create unfair bias.
+Incorrect. Upholding high standards of operational excellence is not one of Google’s 7 AI principles.
 
 check
 2.
 
-Google 有 7 項 AI 開發原則，下列何者為其中之一？
+Organizations are developing their own AI principles that reflect their mission and values. What are the common themes among these principles?
 
-AI 應堅持以高標準追求營運成效。
-check
-AI 應堅持以高標準追求科學卓越。
+A consistent set of ideas about transparency, fairness, and equity.
 
-AI 應塑造不公平的偏誤。
+A consistent set of ideas about transparency, fairness, and diversity. check
 
-AI 應基於監控目的而收集或使用資訊。
-答對了！
+A consistent set of ideas about transparency, fairness, accountability, and privacy.
+
+A consistent set of ideas about fairness, accountability, and inclusion.
+Correct!
 
 check
 3.
 
-關於實踐負責任的 AI 技術做法，下列何者正確？
+Which of these is correct with regard to applying responsible AI practices?
 
-專案後期的決策不會影響負責任的 AI 技術。
+Decisions made at an early stage in a project do not make an impact on responsible AI.
 
-無論在專案的哪個階段，只有專案擁有者的決策才會影響負責任的 AI 技術。
+Only decisions made by the project owner at any stage in a project make an impact on responsible AI. check
 
-專案初期的決策不會影響負責任的 AI 技術。
+Decisions made at all stages in a project make an impact on responsible AI.
+
+Decisions made at a late stage in a project do not make an impact on responsible AI.
+Correct!
+
 check
-專案每個階段的決策都會影響負責任的 AI 技術。
-答對了！
-
-close
 4.
 
-機構紛紛擬定 AI 開發原則，體現自己的使命與價值。這些原則有哪些共通點？
-close
-均以公平、可靠和多元包容為理念。
+Why is responsible AI practice important to an organization?
 
-均以資訊公開、公平和公正為理念。
+Responsible AI practice can improve communication efficiency.  
 
-均以資訊公開、公平、可靠和隱私權為理念。
+Responsible AI practice can help build trust with customers and stakeholders.
 
-均以資訊公開、公平和多樣性為理念。
-答錯了。多元包容並非其中一項共通理念。
+Responsible AI practice can help improve operational efficiency. check
 
-
-
-
-
+Responsible AI practice can help drive revenue.
+Correct!
 
 
 
