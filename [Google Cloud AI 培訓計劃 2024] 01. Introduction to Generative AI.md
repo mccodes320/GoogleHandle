@@ -243,6 +243,72 @@ Stable Diffusion 能有效根據文字描述生成高品質圖片 能有效根�
 以上就是一些可以運用的基礎模型 但生成式 AI 可以協助您 完成應用程式編碼工作嗎？
 
 
+**所有閱讀資源：Introduction to Generative AI**
+請注意，平台上註明的 30 分鐘，是您瀏覽課程提供的閱讀資源可能需要花費的時間，但實際所
+需的總時間取決於您要進一步探索的內容。
+以下匯總生成式 AI 的閱讀資源：
+● 問問技術專家：什麼是生成式 AI？
+https://blog.google/inside-google/googlers/ask-a-techspert/what-is-generative-ai/
+● 什麼是生成式 AI？
+https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-generative-ai
+● Google 研究，2022 年與未來發展：生成式模型
+https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html#
+GenerativeModels
+● 打造最開放且創新的 AI 生態系統
+https://cloud.google.com/blog/products/ai-machine-learning/building-an-opengenerative-ai-partner-ecosystem
+● 生成式 AI 已經到來，該由誰監管？
+https://www.nytimes.com/2022/10/21/podcasts/hard-fork-generative-artificialintelligence.html
+● 史丹佛大學 (Stanford University) 與 Google 合作進行的研究：生成式代理程式產生可
+信、與真人相當的行為
+https://syncedreview.com/2023/04/12/stanford-u-googles-generative-agents-produce
+-believable-proxies-of-human-behaviours/
+● 生成式 AI：史丹佛大學 HAI 研究機構的觀點
+https://hai.stanford.edu/sites/default/files/2023-03/Generative_AI_HAI_Perspectives
+● 生成式 AI 的職場應用情況
+https://www.nber.org/system/files/working_papers/w31161/w31161.pdf
+● 生成式 AI 未來會運用於特定領域，而非廣泛通用
+https://www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is
+-niche-not-generalized/
+● 生成式 AI 為企業帶來的影響
+https://www2.deloitte.com/us/en/pages/consulting/articles/generative-artificialintelligence.html
+● 在運用生成式 AI 的同時主動做好風險控管
+https://www2.deloitte.com/us/en/pages/consulting/articles/responsible-use-ofgenerative-ai.html
+● 生成式 AI 如何改變創意工作
+https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work
+以下匯總大型語言模型的閱讀資源：
+● 自然語言處理的 ImageNet 時刻已經到來 https://thegradient.pub/nlp-imagenet/
+● LaMDA：我們的突破性對話技術 https://blog.google/technology/ai/lamda/
+● 語言模型可以進行小樣本學習
+https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64aPaper.pdf
+● PaLM-E：實體的多模態語言模型
+https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html
+● PaLM API 與 MakerSuite：輕鬆開始設計原型並建構生成式 AI 應用程式
+https://developers.googleblog.com/2023/03/announcing-palm-api-and-makersuite.html
+● 具參數運用效率的提示調整機制可創造規模效益 https://arxiv.org/pdf/2104.08691.pdf
+● Google 研究，2022 年與未來發展：語言模型
+https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html#
+LanguageModels
+● 解開機器學習謎題
+https://news.mit.edu/2023/large-language-models-in-context-learning-0207
+其他資源：
+● 導入注意力機制就對了 https://research.google/pubs/pub46201/
+● Transformer：語言理解的全新類神經網路架構
+https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
+● 維基百科中的 Transformer 條目
+https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)#:~:text=Transfor
+mers%20were%20introduced%20in%202017,allowing%20training%20on%20larger%2
+0datasets
+● 自然語言處理中的「隨機性參數」是什麼？
+https://lukesalamone.github.io/posts/what-is-temperature/
+● Model Garden https://cloud.google.com/model-garden
+● 在 Google 文件中自動產生摘要
+https://ai.googleblog.com/2022/03/auto-generated-summaries-in-google-docs.html
+
+
+
+
+
+
 
 
 
