@@ -1,5 +1,10 @@
 **從 Prompt 到正式應用的生命週期**
 
+
+![image](https://github.com/user-attachments/assets/e0e95457-194f-461f-8ea0-29331339cbdd)
+
+Vertex AI Studio 是進入生成式 AI 世界的管道 無論是否為開發人員 都能透過這個開發環境 與生成式 AI 模型互動、根據構想設計原型 然後投入正式應用
+
 ![image](https://github.com/user-attachments/assets/49043105-b5b9-418c-a5ea-330072baf4bd)
 
 
