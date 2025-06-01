@@ -126,19 +126,19 @@ Excels at tasks like visual question answering, image captioning, and informatio
 
 The Gemini API is quite powerful, so let's explore some of the benefits of using the API.
 
-Accessibility to powerful generative AI models
+**Accessibility to powerful generative AI models**
 _____________
 Gemini 1.0 Pro and Gemini 1.0 Pro Vision offer advanced capabilities for text generation, code generation, and multimodal understanding.
 
-Flexibility
+**Flexibility**
 ______________
 Process information from a variety of modalities in a single request.
 
-Scalability
+**Scalability**
 _____________________
 Design large-scale deployments with features like enterprise security, data residency, and performance.
 
-Ease of use
+**Ease of use**
 ____________________
 Get started quickly with Python, Node.js, Java, and Go SDKs.
 
@@ -190,19 +190,24 @@ Module 1 Quiz
 
 1. Which of the following describes the Gemini 1.0 Pro and Gemini 1.0 Pro Vision models?
 
-One model is used for translation, and the other is used for answering questions.
-One model specializes in text generation only, while the other model specializes exclusively in image generation.
-One model handles text-based prompts, the other handles multimodal prompts with text, images, and/or video.*
-Both models are suitable for medical use cases.
+One model is used for translation, and the other is used for answering questions.  
+One model specializes in text generation only, while the other model specializes exclusively in image generation.  
+One model handles text-based prompts, the other handles multimodal prompts with text, images, and/or video.*   
+Both models are suitable for medical use cases.  
+
+note:
+Correct! Gemini 1.0 Pro is designed to handle natural language tasks, text and code chat, and code generation. Gemini 1.0 Pro Vision supports multimodal input that can include text, images, and video.
 
 2. You need to create a chatbot that is designed to answer customer questions about your company's products in a friendly and informative way. Which Gemini 1.0 Pro model is the best choice for this task?
-Gemini 1.0 Pro
-None of the Gemini 1.0 Pro models are suitable for chatbots.
-Gemini
-Both Gemini 1.0 Pro and Gemini 1.0 Pro Vision models are equally suitable.
-Gemini 1.0 Pro Vision
 
+Gemini 1.0 Pro  *  
+None of the Gemini 1.0 Pro models are suitable for chatbots.    
+Gemini  
+Both Gemini 1.0 Pro and Gemini 1.0 Pro Vision models are equally suitable.  
+Gemini 1.0 Pro Vision  
 
+note:
+Correct! Gemini 1.0 Pro is designed to handle natural language interactions, making it ideal for chatbot development.
 
 
 
