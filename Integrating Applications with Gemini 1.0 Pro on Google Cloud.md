@@ -12,7 +12,7 @@ A short course that teaches you how to use the Vertex AI Gemini API to interact 
 
 ✓   Test the capabilities of the models with text, image, and video prompts from an app.
 
-**Vertex AI overview**
+## Vertex AI overview
 
 ![image](https://github.com/user-attachments/assets/7f81809c-fc89-4b5c-92ee-3ecf3c63550a)
 
@@ -96,14 +96,95 @@ Vertex AI Gemini API
 
 The Vertex AI Gemini API:
 
-•
-Contains the publisher endpoints for the Gemini family of models.
+• Contains the publisher endpoints for the Gemini family of models.  
 
-•
-Provides access to the Gemini models.
+• Provides access to the Gemini models.  
 
-•
-Enables you to process information from multiple modalities, such as text, images, and video.
+• Enables you to process information from multiple modalities, such as text, images, and video.  
+
+
+## Gemini models
+
+Gemini is a family of generative AI models that is designed for multimodal use cases.
+
+The Gemini API gives you access to the Gemini models.
+
+
+* Gemini 1.0 Pro
+
+Designed for natural language tasks, text and code chat, and code generation.
+
+Excels in creative writing by producing different creative text formats, like poems, letters, scripts, etc., and simplifying complex text by generating summaries of key points.
+
+* Gemini 1.0 Pro Vision
+
+Supports multimodal prompts, including text, images, and video.  
+
+Excels at tasks like visual question answering, image captioning, and information extraction from visual content.  
+
+### Benefits of using the Gemini API
+
+The Gemini API is quite powerful, so let's explore some of the benefits of using the API.
+
+Accessibility to powerful generative AI models
+_____________
+Gemini 1.0 Pro and Gemini 1.0 Pro Vision offer advanced capabilities for text generation, code generation, and multimodal understanding.
+
+Flexibility
+______________
+Process information from a variety of modalities in a single request.
+
+Scalability
+_____________________
+Design large-scale deployments with features like enterprise security, data residency, and performance.
+
+Ease of use
+____________________
+Get started quickly with Python, Node.js, Java, and Go SDKs.
+
+### Sample uses of the Gemini API
+
+![image](https://github.com/user-attachments/assets/d4285196-9cc6-4c0f-a9ca-afea4db7dce2)
+
+Generate code from natural language descriptions.
+
+Create image captions that go beyond simple descriptions.
+
+Answer questions about the content of images and videos.
+
+Generate different creative text formats, like poems, code, scripts, musical pieces, email, letters, and stories.
+
+Getting started
+
+1 Set up your Google Cloud account.
+
+2 Enable the Vertex AI API.
+
+3 Choose the appropriate SDK for your programming language, and develop your app.
+
+4 Send multimodal prompts to the models using the SDK.
+
+5 Interpret the model's response.
+
+
+
+## What did I walk away with?
+
+The Vertex AI Gemini API is a powerful tool for developers and enterprises who want to leverage the capabilities of multimodal machine learning.
+
+With its ability to process information from multiple modalities, Gemini opens up a wide range of new possibilities for creative applications.
+
+Here is a quick recap.
+
+✓   Vertex AI is a machine learning (ML) platform to train and deploy ML models.
+
+✓   The Vertex AI Gemini API contains the publisher endpoints for the Gemini family of models.
+
+✓   Gemini API can be used for a vast number of usecases including generating code from natural language, creating image captions, answering questions about the content of images and a lot more.
+
+
+
+
 
 
 
